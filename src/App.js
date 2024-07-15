@@ -1,12 +1,11 @@
 import * as lib from './components/library';
-
-lib.test();
+import DragDropTest from "./components/DragDropTest";
 
 function App() {
   return (
     <div>
       <div className="App">
-        hello react!
+        <DragDropTest />
       </div>
     </div>
   );

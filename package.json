@@ -41,6 +41,9 @@
   },
   "devDependencies": {
     "electron": "^31.2.0",
+    "resolve-url-loader": "^5.0.0",
+    "sass-loader": "^14.2.1",
+    "source-map": "^0.7.4",
     "webpack-node-externals": "^3.0.0"
   }
 }
